@@ -12,6 +12,9 @@ message,response
 *hey*, Hey there! I can guide you through requirement analysis concepts.
 *good morning*, Good morning! Ready to discuss requirement analysis and its significance?
 
+*start recording*, Starting recording! I will transcribe your speech and audio. 
+
+
 *what is the purpose of*, Understanding the purpose helps in defining clear requirements.
 *how can we determine*, By analyzing user needs and stakeholder input.
 *why do we need to document*, Documentation ensures clarity and traceability.
